@@ -12,7 +12,7 @@
 const users = [];
 
 const siteConfig = {
-    title: 'William Gaertner', // Title for your website.
+    title: 'William M. Gaertner', // Title for your website.
     tagline: 'Focused, responsive, growing developer',
     profilePhoto: 'img/profile.png',
     url: 'https://wmgaertner.github.io', // Your website URL
